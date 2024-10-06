@@ -1,4 +1,4 @@
-# Usar uma imagem base oficial do Ubuntu
+# Usar uma imagem base oficial do Alpine
 FROM alpine:latest
 
 ARG USER_UID=1000
